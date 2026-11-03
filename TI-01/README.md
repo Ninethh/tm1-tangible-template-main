@@ -43,7 +43,7 @@ _List every component and material you used._
 
 
 ## Photo
-<img width="1536" height="2048" alt="image" src="media/photo_alarm.jpg" />
+<img width="1536" height="2048" alt="image" src="media/photo_alarm.jpeg" />
 
 _More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
 
