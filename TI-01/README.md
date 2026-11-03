@@ -69,5 +69,5 @@ Si, que se'ns ha acabat el temps per provar-ho i hem hagut de fer una idea més 
 _Did you try the “going further” idea from the slide? What happened?_
 
 ## Use of AI
-No hem utilitzat IA perquè tampoc hem tingut temps de obrir-la.
+No hem utilitzat IA.
 _Where did you use AI today (explaining an error, ideas, reviewing…)? What did you change or check yourselves?_
