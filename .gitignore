@@ -1,0 +1,14 @@
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Arduino build output
+build/
+*.hex
+*.elf
+*.bin
+
+# Raw video: upload videos through the README instead
+*.mov
+*.MOV
+*.avi
