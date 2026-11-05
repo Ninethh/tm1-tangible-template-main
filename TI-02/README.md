@@ -2,7 +2,7 @@
 
 **Thu 05/11** · _Buttons, pull-up resistors, edge detection, Serial Monitor, potentiometer, PWM, `map()`_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** _Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak_
 
 ---
 
