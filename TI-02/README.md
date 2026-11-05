@@ -12,10 +12,10 @@ Build a small lamp for a specific moment (reading, a night light, a mood) that y
 
 **Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
 
-- [ ] A potentiometer controls brightness smoothly
-- [ ] A button toggles the lamp on and off
-- [ ] Brightness is kept when you switch back on
-- [ ] The Serial Monitor shows the knob value
+- [x] A potentiometer controls brightness smoothly
+- [x] A button toggles the lamp on and off
+- [x] Brightness is kept when you switch back on
+- [x] The Serial Monitor shows the knob value
 
 **Hand in by 11:30**
 
@@ -35,16 +35,23 @@ _List every component and material you used._
 | Component / material | Quantity | Notes |
 | --- | --- | --- |
 | Arduino Uno | 1 | |
-| | | |
-| | | |
+| Cables | 8 | |
+| LED | 1 | |
+| Resistència | 1 | |
+| Toggle | 1 | |
+| Botó | 1 | |
 
 ## Photo
 
-![Hand-dimmed lamp (graded): photo](media/photo-1.jpg)
+![Hand-dimmed lamp (graded): photo](media/photo-1.jpeg)
 
 _More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
 
 ## Video
+
+
+https://github.com/user-attachments/assets/6969b71d-b2ca-47ee-b0d6-b23a9e73ca6a
+
 
 _Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste an unlisted YouTube link._
 
@@ -54,7 +61,16 @@ _Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste 
 - _Other files (Tinkercad link, extra sketches…): add them to this folder or paste a link._
 
 ## The toggle
+  if (lastState == HIGH && state == LOW) {
+    on = !on;
+    delay(30); // debounce
 
+  Perquè el "laststate està declarat com l'estat anterior i l'state és l'actual i el comprova abans de fer cap canvi. 
+
+  bool on = false;
+int lastState = HIGH;
+
+llavors comprova les varibles, i exacuta la funciona. 
 _Copy the lines of code that switch the lamp on and off, and explain how they avoid flicker._
 
 ```cpp
@@ -63,12 +79,16 @@ _Copy the lines of code that switch the lamp on and off, and explain how they av
 
 ## Problems and fixes
 
-_One thing that went wrong and what you did about it._
+_Una de les coses que ens havia costat ha sigut poder realitzar l'animació de fade out, perque estigui aplicada en button, per poder solucionarlo vam mirar ajudar en la pagina oficial del Arduino_
 
 ## Going further
+
+Si, hem fet el fade-out per tal de que el llum de teatre no s'apagués tan bruscament. Hem mirat a la pàgina oficial per fer el fade-out.
 
 _Did you try the “going further” idea from the slide? What happened?_
 
 ## Use of AI
+
+Ho hem mirat perquè hi havia un moment que el codi no acavaba de funcionar i voliem revisar-lo i les coses estaven barrejades. També perquè ens expliqués absolutament tot el que haviem vist fins el moment de teoria que no ens havia quedat del tot clar.
 
 _Where did you use AI today (explaining an error, ideas, reviewing…)? What did you change or check yourselves?_
