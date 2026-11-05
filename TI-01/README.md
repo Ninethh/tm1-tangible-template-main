@@ -43,7 +43,7 @@ _List every component and material you used._
 
 
 ## Photo
-<img width="1536" height="2048" alt="image" src="media/photo_alarm.jpg" />
+<img width="1536" height="2048" alt="image" src="media/photo_alarm.jpeg" />
 
 _More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
 
@@ -69,5 +69,5 @@ Si, que se'ns ha acabat el temps per provar-ho i hem hagut de fer una idea més 
 _Did you try the “going further” idea from the slide? What happened?_
 
 ## Use of AI
-No hem utilitzat IA perquè tampoc hem tingut temps de obrir-la.
+No hem utilitzat IA.
 _Where did you use AI today (explaining an error, ideas, reviewing…)? What did you change or check yourselves?_
