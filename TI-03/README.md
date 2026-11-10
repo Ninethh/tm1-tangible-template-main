@@ -45,6 +45,10 @@ Hemos creado una maquina para deterctar el sonido que hace un bebe, si duerme en
 
 ## Video
 
+
+https://github.com/user-attachments/assets/9dfc8443-39d4-4c17-b669-1031c5358286
+
+
 ## Code
 
 - Arduino sketch: [`ti03/ti03.ino`](ti03/ti03.ino)
