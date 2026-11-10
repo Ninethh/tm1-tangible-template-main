@@ -68,6 +68,14 @@ https://github.com/user-attachments/assets/9dfc8443-39d4-4c17-b669-1031c5358286
 
 Hemos tenido el problema que no sabiamos como hacer que el LED rojo solo funcione cuando esta activo el LED blanco, de primeras habiamos pensado crear un if con todo dentro, pero al final donde esta el LED rojo en parte de "brillo" hemos añadido el bool inicial de la lampara.
 
+ int loudness = hi - lo;
+  if (lampOn && loudness > 5) {
+    digitalWrite(LED_PING, HIGH);
+  }
+  else {
+    digitalWrite(LED_PING, LOW);
+  }
+
 ## Going further
 
 Detecció de so, que només funciona si la llum principal està activa.
