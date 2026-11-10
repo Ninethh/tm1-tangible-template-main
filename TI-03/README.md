@@ -1,8 +1,8 @@
 # Session 3 · Sensing the environment
 
-**Tue 10/11** · _Light, temperature, distance, pressure, knock and sound sensors; thresholds_
+**Tue 10/11** · Light, temperature, distance, pressure, knock and sound sensors; thresholds
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Ivanna Yakubiak, Nineth Lagos, Pau Pujadas i Laia Formiga
 
 ---
 
@@ -12,11 +12,11 @@ A light that turns on by itself when the room goes dark, for a real place: a hal
 
 **Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
 
-- [ ] LDR reading the room light
-- [ ] Turns on in the dark, off in the light, no flicker (two thresholds)
-- [ ] Thresholds come from your own measurements
-- [ ] Inside or on an object, not a bare breadboard
-- [ ] **One more sense:** only on when someone is near (distance), **or** a knock/clap overrides it, **or** brighter when it is cold (DHT11 + PWM)
+- [x] LDR reading the room light
+- [x] Turns on in the dark, off in the light, no flicker (two thresholds)
+- [x] Thresholds come from your own measurements
+- [x] Inside or on an object, not a bare breadboard
+- [x] **One more sense:** hears the sound near it
 
 **Hand in by 11:30**
 
@@ -27,52 +27,47 @@ A light that turns on by itself when the room goes dark, for a real place: a hal
 
 ## What we built
 
-_Two or three sentences: what does it do, who is it for, and how does a person interact with it?_
+Hemos creado una maquina para deterctar el sonido que hace un bebe, si duerme en habitación al lado de sus padres.
 
 ## Materials
 
-_List every component and material you used._
-
 | Component / material | Quantity | Notes |
-| --- | --- | --- |
 | Arduino Uno | 1 | |
-| | | |
-| | | |
+| Cables | 11 | |
+| LED | 2 | |
+| Micro | 1 | |
+| Resistencia | 3 | |
+| LDR | 1 | |
 
 ## Photo
 
-![Automatic night light: photo](media/photo-1.jpg)
-
-_More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
+![Automatic night light: photo](media/photo1_lampara.jpg)
 
 ## Video
-
-_Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste an unlisted YouTube link._
 
 ## Code
 
 - Arduino sketch: [`ti03/ti03.ino`](ti03/ti03.ino)
-- _Other files (Tinkercad link, extra sketches…): add them to this folder or paste a link._
 
 ## Your measurements
 
-| Situation | LDR value |
-| --- | --- |
-| Room light | |
-| Dark | |
-| **Threshold ON** (below) | |
-| **Threshold OFF** (above) | |
+| Situation                 | LDR value |
+| ------------------------- | --------- |
+| Room light                | 100       |
+| Dark                      | 0         |
+| **Threshold ON** (below)  | >20       |
+| **Threshold OFF** (above) | <10       |
 
-**Extra sense we added:** _distance / knock / temperature, and why it makes sense for the place._
+**Extra sense we added:** detecció del so
 
 ## Problems and fixes
 
-_One thing that went wrong and what you did about it._
+Hemos tenido el problema que no sabiamos como hacer que el LED rojo solo funcione cuando esta activo el LED blanco, de primeras habiamos pensado crear un if con todo dentro, pero al final donde esta el LED rojo en parte de "brillo" hemos añadido el bool inicial de la lampara.
 
 ## Going further
 
-_Did you try the “going further” idea from the slide? What happened?_
+Detecció de so, que només funciona si la llum principal està activa.
 
 ## Use of AI
 
-_Where did you use AI today (explaining an error, ideas, reviewing…)? What did you change or check yourselves?_
+Corregir la estructura del codi.
