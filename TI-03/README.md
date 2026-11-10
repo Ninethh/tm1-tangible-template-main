@@ -27,7 +27,7 @@ A light that turns on by itself when the room goes dark, for a real place: a hal
 
 ## What we built
 
-Hemos creado una maquina para deterctar el sonido que hace un bebe, si duerme en habitación al lado de sus padres.
+Hemos creado una maquina para detectar el sonido que hace un bebe, si duerme en habitación al lado de sus padres.
 
 ## Materials
 
@@ -44,6 +44,10 @@ Hemos creado una maquina para deterctar el sonido que hace un bebe, si duerme en
 ![Automatic night light: photo](media/photo1_lampara.jpg)
 
 ## Video
+
+
+https://github.com/user-attachments/assets/9dfc8443-39d4-4c17-b669-1031c5358286
+
 
 ## Code
 
