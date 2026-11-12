@@ -65,10 +65,6 @@ int lastState = HIGH;
 
 llavors comprova les varibles, i exacuta la funciona. 
 
-```cpp
-// paste here
-```
-
 ## Problems and fixes
 
 Una de les coses que ens havia costat ha sigut poder realitzar l'animació de fade out, perque estigui aplicada en button, per poder solucionarlo vam mirar ajudar en la pagina oficial del Arduino
