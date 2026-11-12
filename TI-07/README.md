@@ -2,7 +2,7 @@
 
 **Tue 24/11** · _The project brief, roadmap and deliverables; organising the group; finding and testing an idea_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 ---
 
