@@ -2,7 +2,7 @@
 
 **Thu 19/11** · _Choosing a motor, libraries, servo and DC motors, powering motors_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 ---
 
