@@ -2,7 +2,7 @@
 
 **Tue 17/11** · _States and `switch/case`, arrays, functions, `millis()`, edge detection, RFID_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 ---
 
