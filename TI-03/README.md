@@ -32,12 +32,13 @@ Hemos creado una maquina para detectar el sonido que hace un bebe, si duerme en 
 ## Materials
 
 | Component / material | Quantity | Notes |
-| Arduino Uno | 1 | |
-| Cables | 11 | |
-| LED | 2 | |
-| Micro | 1 | |
-| Resistencia | 3 | |
-| LDR | 1 | |
+|----------------------|----------|-------|
+| Arduino Uno          | 1        |       |
+| Cables               | 11       |       |
+| LED                  | 2        |       |
+| Micro                | 1        |       |
+| Resistencia          | 3        |       |
+| LDR                  | 1        |       |
 
 ## Photo
 
