@@ -2,7 +2,7 @@
 
 **Thu 12/11** · _Addressable LED strips with FastLED: wiring, colour, effects_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 ---
 
