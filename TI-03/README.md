@@ -10,7 +10,7 @@
 
 A light that turns on by itself when the room goes dark, for a real place: a hallway, a child’s room, a stair.
 
-**Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
+**Must have** 
 
 - [x] LDR reading the room light
 - [x] Turns on in the dark, off in the light, no flicker (two thresholds)
