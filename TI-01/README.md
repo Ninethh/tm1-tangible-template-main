@@ -44,6 +44,8 @@ Hem fet una alarma de movil que ens desperta.
 ## Photo
 <img width="1536" height="2048" alt="image" src="media/photo_alarm.jpeg" />
 
+<img width="1536" height="2048" alt="image" src="media/circuit_tinkercad.png" />
+
 
 ## Video
 No cal s'ha dit a classe.
