@@ -10,7 +10,7 @@
 
 Build a small lamp for a specific moment (reading, a night light, a mood) that you switch and dim by hand.
 
-**Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
+**Must have**
 
 - [x] A potentiometer controls brightness smoothly
 - [x] A button toggles the lamp on and off
@@ -31,13 +31,13 @@ Hem creat una llum d'escenari, que serveix per introducció/tancament de les pec
 ## Materials
 
 | Component / material | Quantity | Notes |
-| --- | --- | --- |
-| Arduino Uno | 1 | |
-| Cables | 8 | |
-| LED | 1 | |
-| Resistència | 1 | |
-| Toggle | 1 | |
-| Botó | 1 | |
+| -------------------- | -------- | ----- |
+| Arduino Uno          | 1        |       |
+| Cables               | 8        |       |
+| LED                  | 1        |       |
+| Resistència          | 1        |       |
+| Toggle               | 1        |       |
+| Botó                 | 1        |       |
 
 ## Photo
 
