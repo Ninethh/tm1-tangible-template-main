@@ -14,7 +14,7 @@ Make an object that greets, guides and thanks its user with light. Start from yo
 
 - [x] An idle light that invites a touch
 - [x] A different light for each state
-- [ ] One animation made with `EVERY_N_MILLISECONDS`
+- [x] One animation made with `EVERY_N_MILLISECONDS`
 - [ ] LEDs diffused, never bare
 
 **Hand in by 11:30**
@@ -26,7 +26,8 @@ Make an object that greets, guides and thanks its user with light. Start from yo
 
 ## What we built
 
-_Two or three sentences: what does it do, who is it for, and how does a person interact with it?_
+_Two or three sentences: what does it do, who is it for, and how does a person interact with it?
+Hem Fet un datafón, per una tarjeta de credit, q_
 
 ## Materials
 
