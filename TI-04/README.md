@@ -45,7 +45,7 @@ _List every component and material you used._
 | Led Strip   | 1 | |
 ## Photo
 
-![The object that answers: photo](media/photo-1.jpg)
+![The object that answers: photo](media/esquema)
 
 _More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
 
