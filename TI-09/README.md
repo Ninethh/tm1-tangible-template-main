@@ -2,7 +2,7 @@
 
 **Tue 01/12** · _Solid breadboard builds, mounting, enclosures, the 3D print queue_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 ---
 

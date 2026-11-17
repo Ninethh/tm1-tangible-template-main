@@ -10,7 +10,7 @@
 
 Build a small lamp for a specific moment (reading, a night light, a mood) that you switch and dim by hand.
 
-**Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
+**Must have**
 
 - [x] A potentiometer controls brightness smoothly
 - [x] A button toggles the lamp on and off
@@ -26,34 +26,27 @@ Build a small lamp for a specific moment (reading, a night light, a mood) that y
 
 ## What we built
 
-_Two or three sentences: what does it do, who is it for, and how does a person interact with it?_
+Hem creat una llum d'escenari, que serveix per introducció/tancament de les peces teatrals.
 
 ## Materials
 
-_List every component and material you used._
-
 | Component / material | Quantity | Notes |
-| --- | --- | --- |
-| Arduino Uno | 1 | |
-| Cables | 8 | |
-| LED | 1 | |
-| Resistència | 1 | |
-| Toggle | 1 | |
-| Botó | 1 | |
+| -------------------- | -------- | ----- |
+| Arduino Uno          | 1        |       |
+| Cables               | 8        |       |
+| LED                  | 1        |       |
+| Resistència          | 1        |       |
+| Toggle               | 1        |       |
+| Botó                 | 1        |       |
 
 ## Photo
 
 ![Hand-dimmed lamp (graded): photo](media/photo-1.jpeg)
 
-_More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
-
 ## Video
-
 
 https://github.com/user-attachments/assets/6969b71d-b2ca-47ee-b0d6-b23a9e73ca6a
 
-
-_Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste an unlisted YouTube link._
 
 ## Code
 
@@ -71,24 +64,16 @@ _Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste 
 int lastState = HIGH;
 
 llavors comprova les varibles, i exacuta la funciona. 
-_Copy the lines of code that switch the lamp on and off, and explain how they avoid flicker._
-
-```cpp
-// paste here
-```
 
 ## Problems and fixes
 
-_Una de les coses que ens havia costat ha sigut poder realitzar l'animació de fade out, perque estigui aplicada en button, per poder solucionarlo vam mirar ajudar en la pagina oficial del Arduino_
+Una de les coses que ens havia costat ha sigut poder realitzar l'animació de fade out, perque estigui aplicada en button, per poder solucionarlo vam mirar ajudar en la pagina oficial del Arduino
 
 ## Going further
 
 Si, hem fet el fade-out per tal de que el llum de teatre no s'apagués tan bruscament. Hem mirat a la pàgina oficial per fer el fade-out.
 
-_Did you try the “going further” idea from the slide? What happened?_
-
 ## Use of AI
 
 Ho hem mirat perquè hi havia un moment que el codi no acavaba de funcionar i voliem revisar-lo i les coses estaven barrejades. També perquè ens expliqués absolutament tot el que haviem vist fins el moment de teoria que no ens havia quedat del tot clar.
 
-_Where did you use AI today (explaining an error, ideas, reviewing…)? What did you change or check yourselves?_

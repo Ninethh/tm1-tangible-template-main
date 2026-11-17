@@ -2,7 +2,7 @@
 
 **Thu 03/12** · _Stress tests, debugging, documentation and the demo format_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 ---
 

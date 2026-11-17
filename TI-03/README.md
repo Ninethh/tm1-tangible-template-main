@@ -10,7 +10,7 @@
 
 A light that turns on by itself when the room goes dark, for a real place: a hallway, a child’s room, a stair.
 
-**Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
+**Must have** 
 
 - [x] LDR reading the room light
 - [x] Turns on in the dark, off in the light, no flicker (two thresholds)
@@ -32,12 +32,13 @@ Hemos creado una maquina para detectar el sonido que hace un bebe, si duerme en 
 ## Materials
 
 | Component / material | Quantity | Notes |
-| Arduino Uno | 1 | |
-| Cables | 11 | |
-| LED | 2 | |
-| Micro | 1 | |
-| Resistencia | 3 | |
-| LDR | 1 | |
+|----------------------|----------|-------|
+| Arduino Uno          | 1        |       |
+| Cables               | 11       |       |
+| LED                  | 2        |       |
+| Micro                | 1        |       |
+| Resistencia          | 3        |       |
+| LDR                  | 1        |       |
 
 ## Photo
 
@@ -67,6 +68,14 @@ https://github.com/user-attachments/assets/9dfc8443-39d4-4c17-b669-1031c5358286
 ## Problems and fixes
 
 Hemos tenido el problema que no sabiamos como hacer que el LED rojo solo funcione cuando esta activo el LED blanco, de primeras habiamos pensado crear un if con todo dentro, pero al final donde esta el LED rojo en parte de "brillo" hemos añadido el bool inicial de la lampara.
+
+ int loudness = hi - lo;
+  if (lampOn && loudness > 5) {
+    digitalWrite(LED_PING, HIGH);
+  }
+  else {
+    digitalWrite(LED_PING, LOW);
+  }
 
 ## Going further
 

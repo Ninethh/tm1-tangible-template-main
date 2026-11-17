@@ -2,7 +2,7 @@
 
 **Thu 26/11** · _Tangible installations, robustness, materials, planning the build, 3D printed parts_
 
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:** Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 ---
 

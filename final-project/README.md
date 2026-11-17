@@ -1,7 +1,7 @@
 # Final project
 
 **Project name:** _…_
-**Team:** _Name Surname, Name Surname, Name Surname_
+**Team:**  Laia Formiga, Nineth Lagos, Pau Pujadas i Ivanna Yakubiak.
 
 Collect everything here from session 7 onwards. At the end you only put it together.
 
