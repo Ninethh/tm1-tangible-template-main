@@ -12,8 +12,8 @@ Make an object that greets, guides and thanks its user with light. Start from yo
 
 **Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
 
-- [ ] An idle light that invites a touch
-- [ ] A different light for each state
+- [x] An idle light that invites a touch
+- [x] A different light for each state
 - [ ] One animation made with `EVERY_N_MILLISECONDS`
 - [ ] LEDs diffused, never bare
 
@@ -35,11 +35,12 @@ _List every component and material you used._
 | Component / material | Quantity | Notes |
 | --- | --- | --- |
 | Arduino Uno | 1 | |
-| Cables      | | |
-| Botó        | | |
-| Resistencia | | |
-| Condensador | | |
-|  | | |
+| Cables      | 6 | |
+| Botó        | 1 | |
+| Resistencia | 1 | |
+| Condensador | 1 | |
+| Buzzer      | 1 | |
+| Alimentació Externa | 1 | |
 ## Photo
 
 ![The object that answers: photo](media/photo-1.jpg)
@@ -59,9 +60,10 @@ _Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste 
 
 | State | Colour / animation | Meaning for the user |
 | --- | --- | --- |
-| Idle | | |
-| | | |
-| | | |
+| Idle    | Blue   | Invites The User |
+| Loading | Yellow | Something is loading |
+| Correct | Green  | The process was completed successfully.|
+| Wrong   | Red    | The process could not be completed successfully. |
 
 ## Problems and fixes
 
