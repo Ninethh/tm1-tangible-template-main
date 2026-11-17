@@ -35,9 +35,11 @@ _List every component and material you used._
 | Component / material | Quantity | Notes |
 | --- | --- | --- |
 | Arduino Uno | 1 | |
-| | | |
-| | | |
-
+| Cables      | | |
+| Botó        | | |
+| Resistencia | | |
+| Condensador | | |
+|  | | |
 ## Photo
 
 ![The object that answers: photo](media/photo-1.jpg)
