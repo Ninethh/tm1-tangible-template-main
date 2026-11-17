@@ -47,16 +47,13 @@ _List every component and material you used._
 
 ![The object that answers: photo](media/esquema)
 
-_More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
-
 ## Video
 
-_Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste an unlisted YouTube link._
+https://github.com/user-attachments/assets/9afc01ce-4ea3-4495-9025-2a07c1039f85
 
 ## Code
 
 - Arduino sketch: [`ti04/ti04.ino`](ti04/ti04.ino)
-- _Other files (Tinkercad link, extra sketches…): add them to this folder or paste a link._
 
 ## What each light means
 
@@ -69,12 +66,12 @@ _Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste 
 
 ## Problems and fixes
 
-_One thing that went wrong and what you did about it._
+Una de las cosas era hacer los estados de cambio, que hemos resuelto con la ayuda de la IA, i el problema con el busser - que no se puedo resolver por un motivo desconocido
 
 ## Going further
 
-_Did you try the “going further” idea from the slide? What happened?_
+Hemos añadido el busser que ayuda a la persona quien utiliza el producto, orientarse mejor ya que añade un sonido de guia. 
 
 ## Use of AI
 
-_Where did you use AI today (explaining an error, ideas, reviewing…)? What did you change or check yourselves?_
+Hemos utilizado la IA para corregir la estructura total del proyecto, y para ver como añadir bien los estados. 
