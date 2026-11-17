@@ -41,6 +41,7 @@ _List every component and material you used._
 | Condensador | 1 | |
 | Buzzer      | 1 | |
 | Alimentació Externa | 1 | |
+| Led Strip   | 1 | |
 ## Photo
 
 ![The object that answers: photo](media/photo-1.jpg)
