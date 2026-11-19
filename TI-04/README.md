@@ -51,6 +51,10 @@ _List every component and material you used._
 
 https://github.com/user-attachments/assets/9afc01ce-4ea3-4495-9025-2a07c1039f85
 
+## Scheme
+
+![The object that answers: photo](media/scheme)
+
 ## Code
 
 - Arduino sketch: [`ti04/ti04.ino`](ti04/ti04.ino)
