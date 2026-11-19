@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/9afc01ce-4ea3-4495-9025-2a07c1039f85
 
 ## Scheme
 
-![The object that answers: photo](media/ledsscheme.png)
+![The object that answers: photo](media/leds_scheme.jpg)
 
 ## Code
 
