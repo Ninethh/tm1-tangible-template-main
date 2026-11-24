@@ -12,10 +12,10 @@ Build a box that only opens with the right sequence. The LED strip shows whether
 
 **Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
 
-- [ ] At least 3 states in a `switch/case`
-- [ ] A code of 3+ steps stored in an array
-- [ ] Wrong step resets, with feedback
-- [ ] Closes itself after 5 s, using `millis()`
+- [x] At least 3 states in a `switch/case`
+- [x] A code of 3+ steps stored in an array
+- [x] Wrong step resets, with feedback
+- [x] Closes itself after 5 s, using `millis()`
 
 **Hand in by 11:30**
 
@@ -27,32 +27,32 @@ Build a box that only opens with the right sequence. The LED strip shows whether
 
 ## What we built
 
-_Two or three sentences: what does it do, who is it for, and how does a person interact with it?_
+Com a grup hem construit un piano que amb un melodia correcta permet realitzar una entrada a lloc, que es pot posar en la porta/caixa. 
 
 ## Materials
-
-_List every component and material you used._
 
 | Component / material | Quantity | Notes |
 | --- | --- | --- |
 | Arduino Uno | 1 | |
-| | | |
-| | | |
+| FastLed | 1 | |
+| Buzzer | 1 | |
+| Buttons | 4 | |
+| Compressor | 1 | |
+| Resistència | 1 | 330 Ohm |
+| Pila | 1 | per LEDS |
+| Cables | 12 | |
 
 ## Photo
 
-![The safe box (graded): photo](media/photo-1.jpg)
-
-_More photos? Add them to `media/` and copy the line above with the new file name (`photo-2.jpg`, …)._
+![The safe box (graded): photo](media/box.png)
 
 ## Video
 
-_Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste an unlisted YouTube link._
+
 
 ## Code
 
 - Arduino sketch: [`ti05/ti05.ino`](ti05/ti05.ino)
-- _Other files (Tinkercad link, extra sketches…): add them to this folder or paste a link._
 
 ## States
 
@@ -62,16 +62,12 @@ _Edit this file on github.com and drag your `.mp4` (under 10 MB) here, or paste 
 | LISTENING | | |
 | OPEN | | |
 
-**The key:** _buttons / knocks / RFID card, and the sequence._
+**The key:** green button, red button, yellow button, green button -- 1, 2, 3, 1
 
 ## Problems and fixes
 
-_One thing that went wrong and what you did about it._
-
-## Going further
-
-_Did you try the “going further” idea from the slide? What happened?_
+Una cosa amb que nosaltres hem tingut el problema ha sigut introduir que quan es pulsa el numero correcta després d'una estona torna a ser vermell. 
 
 ## Use of AI
 
-_Where did you use AI today (explaining an error, ideas, reviewing…)? What did you change or check yourselves?_
+Hem utilitzat la IA per solucionar el problema que hem tingut, explicada en apartat anterior, que ens va proposar añadir un timeup extra - un només perque el codi correcte torna a ser tancat i un altre per cada teclat del piano. 
