@@ -42,17 +42,13 @@ Com a grup hem construit un piano que amb un melodia correcta permet realitzar u
 | Pila | 1 | per LEDS |
 | Cables | 12 | |
 
-## Photo
+## Scheme
 
 ![The safe box (graded): photo](media/box.jpg)
 
 ## Video
 
-
-
 https://github.com/user-attachments/assets/5a0e1c5f-4f3f-40ed-8002-6973b0b51236
-
-
 
 ## Code
 
