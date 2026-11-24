@@ -58,9 +58,9 @@ https://github.com/user-attachments/assets/5a0e1c5f-4f3f-40ed-8002-6973b0b51236
 
 | State | LED strip shows | Goes to… when… |
 | --- | --- | --- |
-| LOCKED | | |
-| LISTENING | | |
-| OPEN | | |
+| LOCKED | LEDs estan vermells | |
+| LISTENING | Cada LED es va canviant per verd cada cop que el pin es corecte | en cas que no, torna a ser vermell |
+| OPEN | LEDs estan verds | després d'una estona torna a ser vermell |
 
 **The key:** green button, red button, yellow button, green button -- 1, 2, 3, 1
 
